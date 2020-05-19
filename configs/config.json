@@ -1,0 +1,10 @@
+{
+  "Server": "127.0.0.1:55855",
+  "StaticRoot": "configs/",
+  "RuntimeMode": "dev",
+  "LogLevel": "debug",
+  "MySQL": "hj:123456789@tcp(127.0.0.1:3306)/hj?charset=utf8&parseTime=True&loc=Local",
+  "ShowSQL": true,
+  "Redis": "",
+  "RedisPassword": ""
+}
